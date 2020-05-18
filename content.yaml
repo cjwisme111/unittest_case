@@ -1,0 +1,12 @@
+info :
+  name: "cjw"
+  age : 18
+  sex : 1
+baseInfo:
+    url: "http://www.baidu.cm"
+
+list:
+  - a
+  - b
+  - c
+  - d
